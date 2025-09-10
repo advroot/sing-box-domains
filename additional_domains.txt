@@ -1,0 +1,35 @@
+# Дополнительные домены для разблокировки
+# Строки, начинающиеся с # являются комментариями и будут проигнорированы
+
+# Социальные сети
+soundcloud.com
+sndcdn.com
+soundcloud.cloud
+
+# Мессенджеры
+telegram.org
+whatsapp.com
+discord.com
+
+# ИИ
+krea.ai
+grok.com
+labs.google
+
+# Новостные сайты
+azatliq.org
+
+# Другие домены
+exp-tas.com
+githubcopilot.com
+githubusercontent.com
+github.com
+surrealist.app
+ionos.de
+archlinux.org
+foxitsoftware.com
+crates.io
+withgoogle.com
+langdock.com
+saltlake.tardigrade.io
+storj.io
