@@ -1,11 +1,6 @@
 # Дополнительные домены для разблокировки
 # Строки, начинающиеся с # являются комментариями и будут проигнорированы
 
-# Социальные сети
-soundcloud.com
-sndcdn.com
-soundcloud.cloud
-
 # Мессенджеры
 telegram.org
 whatsapp.com
@@ -13,8 +8,8 @@ discord.com
 
 # ИИ
 krea.ai
-grok.com
 labs.google
+googleapis.com
 
 # Новостные сайты
 azatliq.org

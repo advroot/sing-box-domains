@@ -47,7 +47,7 @@ def process_domains():
             "version": 1,
             "rules": [
                 {
-                    "domain_suffix": domains
+                    "domain_keyword": domains
                 }
             ]
         }
