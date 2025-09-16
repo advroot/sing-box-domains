@@ -10,6 +10,8 @@ discord.com
 krea.ai
 labs.google
 googleapis.com
+bigmodel.cn
+z.ai
 
 # Новостные сайты
 azatliq.org
