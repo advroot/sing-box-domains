@@ -31,3 +31,5 @@ langdock.com
 saltlake.tardigrade.io
 storj.io
 zed.dev
+aistudio.google.com
+
